@@ -1,0 +1,264 @@
+APPLE|Fruit used in cider
+PEAR|Fruit with a narrow neck
+BANANA|Yellow curved fruit
+ORANGE|Citrus fruit sharing its name with a colour
+LEMON|Sour yellow citrus fruit
+GRAPE|Small fruit grown in bunches
+MELON|Large juicy fruit with a rind
+PEACH|Fruit with fuzzy skin
+PLUM|Purple stone fruit
+CHERRY|Small red fruit with a stone
+PINEAPPLE|Tropical fruit with a spiky crown
+STRAWBERRY|Red fruit with seeds on the outside
+CARROT|Orange root vegetable
+POTATO|Vegetable used to make chips
+ONION|Vegetable that can make you cry when cut
+GARLIC|Pungent bulb used in cooking
+PEPPER|Seasoning commonly paired with salt
+CUCUMBER|Long green salad vegetable
+LETTUCE|Leafy vegetable used in salads
+BROCCOLI|Green vegetable resembling tiny trees
+BREAD|Food made by baking dough
+CHEESE|Food made from milk
+BUTTER|Spread made from cream
+PASTA|Italian food including spaghetti
+PIZZA|Flat baked dish topped with cheese
+RICE|Grain often served with curry
+SOUP|Liquid meal eaten with a spoon
+SALAD|Dish of mixed raw vegetables
+CAKE|Sweet baked birthday treat
+BISCUIT|Crunchy snack often dipped in tea
+CHOCOLATE|Sweet food made from cocoa
+HONEY|Sweet substance made by bees
+SUGAR|Sweet crystals added to tea
+WATER|Liquid that freezes at zero degrees Celsius
+COFFEE|Drink made from roasted beans
+JUICE|Drink squeezed from fruit
+TIGER|Large striped cat
+LION|Big cat with a mane
+ELEPHANT|Animal with a trunk
+GIRAFFE|Animal with a very long neck
+ZEBRA|African animal with black and white stripes
+MONKEY|Primate often seen swinging from branches
+GORILLA|Largest living primate
+PANDA|Black and white bear that eats bamboo
+KOALA|Australian marsupial that eats eucalyptus
+KANGAROO|Australian animal that hops and has a pouch
+RABBIT|Long-eared animal that hops
+HAMSTER|Small pet rodent with cheek pouches
+MOUSE|Small rodent also named for a computer device
+HORSE|Animal ridden in a saddle
+DONKEY|Long-eared relative of a horse
+SHEEP|Farm animal raised for wool
+GOAT|Farm animal known for climbing and horns
+CHICKEN|Farm bird that lays eggs
+DUCK|Water bird that quacks
+GOOSE|Large water bird that honks
+SWAN|Long-necked water bird
+EAGLE|Large bird of prey with powerful talons
+PARROT|Colourful bird that can mimic speech
+PENGUIN|Flightless bird associated with Antarctica
+OSTRICH|Largest living bird
+FLAMINGO|Pink bird often standing on one leg
+TURTLE|Reptile protected by a shell
+CROCODILE|Large reptile with a long toothed snout
+SNAKE|Legless reptile
+LIZARD|Scaly reptile often seen basking on rocks
+FROG|Amphibian that croaks
+SHARK|Fish with a skeleton made of cartilage
+DOLPHIN|Intelligent marine mammal with a curved dorsal fin
+WHALE|Very large marine mammal
+OCTOPUS|Sea creature with eight arms
+CRAB|Sea creature with claws that walks sideways
+LOBSTER|Large marine crustacean with claws
+JELLYFISH|Gelatinous sea creature with stinging tentacles
+BUTTERFLY|Insect with colourful wings that develops from a caterpillar
+SPIDER|Eight-legged creature that often spins webs
+ANTLER|Branching horn-like growth on a deer
+FOREST|Large area covered in trees
+DESERT|Very dry region with little rainfall
+OCEAN|Vast body of salt water
+RIVER|Natural stream flowing towards the sea
+MOUNTAIN|Very high natural landform
+VALLEY|Low land between hills
+ISLAND|Land surrounded by water
+BEACH|Sandy or pebbly shore
+VOLCANO|Mountain that can erupt with lava
+GLACIER|Slow-moving mass of ice
+RAINBOW|Colourful arc seen after rain
+THUNDER|Sound caused by lightning
+LIGHTNING|Bright electrical flash in a storm
+CLOUD|Visible mass of water droplets in the sky
+STORM|Weather with strong winds or heavy rain
+SNOW|Frozen flakes falling from the sky
+FROST|Thin layer of ice on a cold surface
+PLANET|Large body orbiting a star
+MOON|Natural satellite of Earth
+STAR|Luminous ball of gas in space
+COMET|Icy space object that can develop a tail
+ROCKET|Vehicle launched into space
+GALAXY|Huge collection of stars
+SATURN|Planet famous for its prominent rings
+MERCURY|Planet closest to the Sun
+JUPITER|Largest planet in the solar system
+EARTH|Planet on which humans live
+PENCIL|Writing tool with a graphite core
+ERASER|Tool used to remove pencil marks
+RULER|Straight tool for measuring length
+SCISSORS|Tool with two blades for cutting paper
+BOOK|Bound collection of pages
+LIBRARY|Place where books can be borrowed
+SCHOOL|Place where children receive lessons
+TEACHER|Person who gives lessons
+STUDENT|Person who studies at a school
+DESK|Table used for writing or working
+CHAIR|Seat for one person
+TABLE|Furniture with a flat top and legs
+WINDOW|Glass opening in a wall
+DOOR|Movable barrier at an entrance
+CURTAIN|Fabric hanging over a window
+MIRROR|Surface that reflects your image
+CLOCK|Device that tells the time
+LAMP|Device that provides light
+PILLOW|Soft cushion for your head in bed
+BLANKET|Warm covering used on a bed
+KITCHEN|Room where meals are prepared
+GARDEN|Area where flowers or vegetables grow
+FLOWER|Colourful part of a plant that produces seeds
+ROSE|Flower often given on Valentine's Day
+TULIP|Spring flower with a cup-shaped bloom
+DAISY|Flower with white petals and a yellow centre
+CACTUS|Spiny plant adapted to dry conditions
+BAMBOO|Tall grass eaten by pandas
+MAPLE|Tree whose leaf appears on Canada's flag
+ACORN|Nut produced by an oak tree
+LEAF|Flat green part of a plant
+ROOT|Part of a plant that absorbs water underground
+SEED|Part of a plant from which a new plant can grow
+TRAIN|Rail vehicle made of connected carriages
+BICYCLE|Two-wheeled vehicle powered by pedals
+SCOOTER|Small vehicle with a footboard and handlebars
+BUS|Large road vehicle carrying passengers
+TRUCK|Road vehicle designed to carry goods
+TRACTOR|Farm vehicle used to pull machinery
+AIRPLANE|Powered flying vehicle with fixed wings
+HELICOPTER|Aircraft lifted by rotating blades
+BOAT|Small vessel travelling on water
+SHIP|Large vessel travelling on water
+ANCHOR|Heavy object used to hold a vessel in place
+BRIDGE|Structure carrying a road over a river
+TUNNEL|Underground passage
+STATION|Place where trains stop
+AIRPORT|Place where aircraft take off and land
+TICKET|Pass allowing entry or travel
+PASSPORT|Official document used for international travel
+SUITCASE|Container used to carry clothes on a trip
+HOTEL|Place offering rooms to travellers
+CASTLE|Fortified building often associated with kings
+PALACE|Grand official residence of a monarch
+MUSEUM|Building displaying objects of historical interest
+THEATRE|Venue where plays are performed
+CINEMA|Venue where films are shown
+MARKET|Place where goods are bought and sold
+BAKERY|Shop selling freshly baked bread
+HOSPITAL|Place where patients receive medical treatment
+DOCTOR|Medical professional who diagnoses illness
+NURSE|Healthcare professional who cares for patients
+DENTIST|Professional who treats teeth
+FARMER|Person who grows crops or raises livestock
+PILOT|Person who flies an aircraft
+ARTIST|Person who creates paintings or other art
+SINGER|Person who performs songs
+ACTOR|Person who performs a role in a play or film
+AUTHOR|Person who writes books
+CHEF|Professional cook
+POLICE|Organisation responsible for enforcing laws
+FOOTBALL|Sport played by two teams trying to score goals with their feet
+TENNIS|Racket sport played across a net
+CRICKET|Sport played with a bat, ball and wickets
+RUGBY|Sport played with an oval ball and tries
+HOCKEY|Sport using sticks to move a puck or ball
+GOLF|Sport involving hitting a ball into holes
+BOXING|Sport involving punches in a ring
+SWIMMING|Sport involving moving through water
+CYCLING|Sport involving riding bicycles
+RUNNING|Moving quickly on foot
+MEDAL|Award often worn around the neck
+TROPHY|Prize often shaped like a cup
+PIANO|Keyboard instrument with strings struck by hammers
+GUITAR|String instrument often strummed
+VIOLIN|Four-string instrument played with a bow
+TRUMPET|Brass instrument with three valves
+DRUM|Percussion instrument struck with sticks or hands
+FLUTE|Wind instrument played by blowing across an opening
+MUSIC|Art of arranging sounds and rhythms
+SONG|Musical piece with words
+DANCE|Movement of the body to music
+PAINT|Coloured liquid applied to surfaces
+BRUSH|Tool with bristles used for painting
+CAMERA|Device used to take photographs
+PHONE|Device used to make calls
+COMPUTER|Electronic device used to process information
+KEYBOARD|Set of keys used to type
+SCREEN|Surface displaying digital images
+BATTERY|Device storing electrical energy
+MAGNET|Object that attracts iron
+COMPASS|Instrument showing magnetic north
+THERMOMETER|Instrument measuring temperature
+TELESCOPE|Instrument used to view distant objects in space
+MICROSCOPE|Instrument used to view tiny objects
+HAMMER|Tool used to drive nails
+SAW|Tool with a toothed blade for cutting
+SPANNER|Tool used to turn nuts and bolts
+SHOVEL|Tool used to dig and move soil
+LADDER|Equipment with rungs for climbing
+ROPE|Thick cord made of twisted fibres
+NEEDLE|Thin pointed tool used for sewing
+THREAD|Fine strand used for sewing
+BUTTON|Small fastener on clothing
+ZIPPER|Fastener with interlocking teeth
+JACKET|Short outer garment with sleeves
+SHIRT|Garment worn on the upper body
+TROUSERS|Garment covering both legs separately
+SOCK|Garment worn on the foot
+SHOE|Outer covering for a foot
+GLOVE|Garment covering the hand
+SCARF|Fabric worn around the neck
+HELMET|Protective covering for the head
+CROWN|Ornamental headwear worn by a monarch
+DIAMOND|Very hard gemstone made of carbon
+GOLD|Precious yellow metal
+SILVER|Precious metal with a shiny grey colour
+COPPER|Reddish metal used in electrical wiring
+IRON|Metal whose chemical symbol is Fe
+GLASS|Transparent material used in windows
+PAPER|Thin material used for writing
+COTTON|Soft fibre used to make clothing
+WOOL|Fibre obtained from sheep
+SILK|Fine fibre produced by silkworms
+MONDAY|Day after Sunday
+FRIDAY|Day before Saturday
+WINTER|Coldest season of the year
+SUMMER|Warmest season of the year
+SPRING|Season between winter and summer
+AUTUMN|Season when many trees lose their leaves
+MORNING|Early part of the day
+MIDNIGHT|Twelve o'clock at night
+SHADOW|Dark shape formed when light is blocked
+CANDLE|Wax object with a wick that burns
+FIRE|Heat and light produced by burning
+SMOKE|Visible particles rising from burning material
+BUBBLE|Thin film of liquid enclosing air
+BALLOON|Inflatable object often used at parties
+PUZZLE|Problem designed to test ingenuity
+CHESS|Board game featuring kings and queens
+DOMINO|Rectangular tile marked with dots
+DICE|Small cubes marked with numbers or dots
+CARDS|Rectangular pieces used in games such as poker
+QUEEN|Female monarch
+KING|Male monarch
+KNIGHT|Chess piece that moves in an L shape
+DRAGON|Mythical creature often depicted breathing fire
+GIANT|Imaginary being of enormous size
+PIRATE|Person who robs ships at sea
+TREASURE|Collection of valuable objects

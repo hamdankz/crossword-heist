@@ -1,1 +1,3 @@
-# crossword-heist
+# Crossword Heist
+Node 20+; npm install; npm test; npm start. Render: Node web service, build npm install, start npm start, health /health. Upload contents to GitHub. No API keys.
+Shared 10x10 crossword, 7–10 connected answers, curated clue pairs in clues.txt (only 4–10 letter answers used). Choose a clue, type answer, claim, attack or guard. Same lobby combat, teams, skip, rematch and cumulative points as Word Heist. Solutions remain server-side until claimed or revealed. Each lobby avoids repeating answer sets across rematches; memory resets when lobby closes or server restarts. Different lobbies may repeat. Clues are authored, not externally verified; synonyms may not match the intended answer. Mobile layout uses compact board and native keyboard; physical device and live multiplayer testing outstanding. Automated tests validate crossword structure and combat calculations, not clue quality or UI.
