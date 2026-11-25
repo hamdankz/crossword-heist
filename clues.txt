@@ -138,7 +138,6 @@ SEED|Part of a plant from which a new plant can grow
 TRAIN|Rail vehicle made of connected carriages
 BICYCLE|Two-wheeled vehicle powered by pedals
 SCOOTER|Small vehicle with a footboard and handlebars
-BUS|Large road vehicle carrying passengers
 TRUCK|Road vehicle designed to carry goods
 TRACTOR|Farm vehicle used to pull machinery
 AIRPLANE|Powered flying vehicle with fixed wings
@@ -204,11 +203,9 @@ SCREEN|Surface displaying digital images
 BATTERY|Device storing electrical energy
 MAGNET|Object that attracts iron
 COMPASS|Instrument showing magnetic north
-THERMOMETER|Instrument measuring temperature
 TELESCOPE|Instrument used to view distant objects in space
 MICROSCOPE|Instrument used to view tiny objects
 HAMMER|Tool used to drive nails
-SAW|Tool with a toothed blade for cutting
 SPANNER|Tool used to turn nuts and bolts
 SHOVEL|Tool used to dig and move soil
 LADDER|Equipment with rungs for climbing
@@ -262,3 +259,392 @@ DRAGON|Mythical creature often depicted breathing fire
 GIANT|Imaginary being of enormous size
 PIRATE|Person who robs ships at sea
 TREASURE|Collection of valuable objects
+APRICOT|Orange stone fruit often dried
+AVOCADO|Green fruit used in guacamole
+COCONUT|Tropical fruit with a hard hairy shell
+PAPAYA|Tropical fruit with black seeds and orange flesh
+MANGO|Tropical stone fruit used in chutney
+LIME|Green citrus fruit used in a mojito
+FIGS|Soft fruits with many tiny seeds, often eaten dried
+DATES|Sweet fruits of a desert palm
+RAISIN|Dried grape
+PRUNE|Dried plum
+RADISH|Peppery root often eaten raw in salads
+TURNIP|Round root vegetable with white and purple skin
+PARSNIP|Pale root vegetable resembling a carrot
+CELERY|Crunchy vegetable with long ribbed stalks
+SPINACH|Leafy vegetable associated with Popeye
+CABBAGE|Leafy vegetable used to make sauerkraut
+PUMPKIN|Large orange squash carved at Halloween
+COURGETTE|Green summer squash also called zucchini
+AUBERGINE|Purple vegetable also called eggplant
+BEETROOT|Dark red root vegetable often pickled
+GINGER|Spicy root used in gingerbread
+CINNAMON|Sweet spice made from tree bark
+VANILLA|Flavouring from an orchid pod
+MUSTARD|Yellow condiment often served with hot dogs
+KETCHUP|Tomato sauce commonly served with chips
+VINEGAR|Sour liquid used in salad dressing
+YOGHURT|Cultured milk food
+CREAM|Rich fatty part of milk
+OMELETTE|Dish made from beaten eggs cooked in a pan
+PANCAKE|Flat batter cake flipped in a frying pan
+WAFFLE|Batter cake with a grid of square pockets
+MUFFIN|Small individual cake often containing blueberries
+CUPCAKE|Small cake baked in a paper case
+DOUGHNUT|Fried sweet dough often shaped like a ring
+CUSTARD|Sweet sauce made with milk and eggs
+POPCORN|Snack made from heated maize kernels
+NOODLE|Long thin strip of pasta-like dough
+LASAGNE|Italian dish made with layers of pasta sheets
+RISOTTO|Italian rice dish cooked with stock
+BURGER|Patty served in a split bun
+SAUSAGE|Seasoned meat packed into a casing
+BACON|Cured pork often served at breakfast
+SALMON|Pink-fleshed fish that swims upstream to spawn
+TUNA|Large fish commonly sold in tins
+SARDINE|Small oily fish often packed in tins
+MACKEREL|Oily fish with striped markings on its back
+OYSTER|Shellfish that can produce a pearl
+MUSSEL|Edible shellfish with a dark hinged shell
+PRAWN|Edible crustacean with a curved body
+SQUIRREL|Bushy-tailed rodent that collects nuts
+HEDGEHOG|Small spiny mammal that curls into a ball
+BADGER|Burrowing mammal with a striped face
+OTTER|Aquatic mammal known for playful swimming
+BEAVER|Rodent that builds dams
+RACCOON|Mammal with a mask-like face and ringed tail
+MEERKAT|Small African mammal that stands upright to watch for danger
+CHEETAH|Fastest land animal
+LEOPARD|Big cat with rosette-shaped spots
+JAGUAR|Large spotted cat native to the Americas
+HYENA|African carnivore known for its laughing call
+WOLF|Wild canine that often hunts in packs
+BISON|Large shaggy bovine native to North America
+BUFFALO|Large bovine including the African cape species
+CAMEL|Desert animal with one or two humps
+LLAMA|South American pack animal related to camels
+ALPACA|South American animal raised for soft fleece
+RHINO|Short name for a large mammal with a horn on its nose
+HIPPO|Short name for a large African river mammal
+MOOSE|Largest member of the deer family
+REINDEER|Deer traditionally associated with Santa's sleigh
+WALRUS|Arctic marine mammal with long tusks
+SEAL|Marine mammal with flippers often seen on rocks
+MANATEE|Aquatic mammal sometimes called a sea cow
+NARWHAL|Arctic whale with a long spiral tusk
+PORPOISE|Small toothed whale related to dolphins
+PELICAN|Water bird with a large throat pouch
+TOUCAN|Tropical bird with a huge colourful bill
+WOODPECKER|Bird that drums its beak against tree trunks
+KINGFISHER|Bird that dives for fish and often has bright blue feathers
+SPARROW|Small brown bird commonly seen in towns
+ROBIN|Garden bird with a red breast in Britain
+PIGEON|City bird related to doves
+MAGPIE|Black and white bird with a long tail
+RAVEN|Large black bird related to the crow
+FALCON|Bird of prey including the peregrine
+VULTURE|Bird that feeds mainly on carrion
+HERON|Long-legged bird that hunts fish in shallow water
+STORK|Long-legged bird traditionally said to deliver babies
+KIWI|Flightless New Zealand bird sharing its name with a fruit
+GECKO|Lizard known for climbing walls
+IGUANA|Large tropical lizard often with a spiny crest
+CHAMELEON|Lizard famous for changing colour
+TOAD|Amphibian typically with dry warty skin
+NEWT|Small amphibian resembling a salamander
+TADPOLE|Aquatic larva of a frog
+BEETLE|Insect with hardened front wings
+LADYBIRD|Small spotted beetle also called a ladybug
+MOSQUITO|Insect whose females often bite to obtain blood
+DRAGONFLY|Long-bodied insect with two pairs of transparent wings
+MOTH|Winged insect often attracted to lights at night
+WASP|Stinging insect with a narrow waist
+HORNET|Large type of wasp
+TERMITE|Insect known for feeding on wood
+EARWIG|Insect with pincers at the end of its abdomen
+SNAIL|Slow mollusc carrying a spiral shell
+SLUG|Gastropod without a prominent external shell
+WORM|Long soft-bodied animal without legs
+CORAL|Marine animal that can build reefs
+STARFISH|Marine animal usually having five arms
+SEAHORSE|Small fish with a horse-shaped head
+SQUID|Marine mollusc with eight arms and two tentacles
+TROUT|Freshwater fish related to salmon
+POND|Small body of still water
+LAKE|Large inland body of water
+STREAM|Small flowing body of water
+WATERFALL|Water flowing over a steep drop
+CANYON|Deep valley with steep rocky sides
+CLIFF|Steep face of rock
+CAVE|Natural underground chamber
+HILL|Raised area of land smaller than a mountain
+MEADOW|Field of grass often containing wildflowers
+SWAMP|Wetland with waterlogged ground and trees
+MARSH|Wetland dominated by grasses and reeds
+JUNGLE|Dense tropical vegetation
+SAVANNA|Tropical grassland with scattered trees
+TUNDRA|Cold treeless region with permanently frozen subsoil in many areas
+ICEBERG|Large floating mass of ice
+LAGOON|Shallow water separated from the sea by a barrier
+REEF|Ridge of rock or coral near the sea surface
+DUNE|Hill of windblown sand
+PEBBLE|Small smooth rounded stone
+BOULDER|Large rounded rock
+GRAVEL|Loose mixture of small stones
+GRANITE|Hard igneous rock often used for worktops
+MARBLE|Metamorphic stone used in sculpture
+SLATE|Rock that splits into thin sheets
+QUARTZ|Common mineral used in some watches
+CRYSTAL|Solid with a regularly repeating atomic structure
+FOSSIL|Preserved remains or trace of ancient life
+LAVA|Molten rock flowing at Earth's surface
+MAGMA|Molten rock beneath Earth's surface
+ASHES|Powdery remains after something burns
+MIST|Thin cloud of droplets near the ground
+HAIL|Balls of ice falling from clouds
+SLEET|Rain mixed with snow or ice pellets
+BREEZE|Gentle wind
+TORNADO|Violently rotating column of air
+HURRICANE|Tropical cyclone in the Atlantic or northeastern Pacific
+DROUGHT|Long period of unusually low rainfall
+FLOOD|Overflow of water onto normally dry land
+SUNSHINE|Direct light from the sun
+SUNRISE|Time when the sun appears above the horizon
+SUNSET|Time when the sun disappears below the horizon
+ECLIPSE|Event in which one celestial body obscures another
+ORBIT|Path of an object around another body
+METEOR|Streak of light caused by a space rock entering the atmosphere
+ASTEROID|Small rocky body orbiting the Sun
+NEPTUNE|Eighth planet from the Sun
+URANUS|Seventh planet from the Sun
+VENUS|Second planet from the Sun
+MARS|Planet known as the Red Planet
+GRAVITY|Force that attracts masses towards one another
+OXYGEN|Gas with chemical symbol O
+HYDROGEN|Lightest chemical element
+NITROGEN|Gas making up most of Earth's atmosphere
+CARBON|Element with chemical symbol C
+HELIUM|Light gas used to fill floating balloons
+SODIUM|Element with chemical symbol Na
+CALCIUM|Element important for strong bones and teeth
+ZINC|Metal with chemical symbol Zn
+TINSEL|Shiny decorative strips used at Christmas
+PLASTIC|Synthetic material that can be moulded into shapes
+RUBBER|Elastic material used in many tyres
+LEATHER|Material made from treated animal hide
+VELVET|Fabric with a soft dense pile
+DENIM|Sturdy cotton fabric used for jeans
+LINEN|Fabric made from flax fibres
+SATIN|Fabric weave with a glossy surface
+NYLON|Synthetic fibre used in stockings
+CARPET|Thick fabric covering a floor
+RUGS|Small movable floor coverings
+TOWEL|Absorbent cloth used for drying
+SPONGE|Porous object used for washing
+SOAP|Substance used with water for washing
+SHAMPOO|Liquid used to wash hair
+TOOTHBRUSH|Brush used to clean teeth
+COMB|Toothed tool used to arrange hair
+RAZOR|Tool with a blade used for shaving
+BUCKET|Open container with a handle for carrying liquids
+BROOM|Long-handled brush for sweeping floors
+MOPPED|Cleaned a floor with a mop
+DUSTPAN|Shallow scoop used with a brush
+KETTLE|Container used to boil water
+TOASTER|Appliance that browns slices of bread
+OVEN|Enclosed appliance used for baking
+FREEZER|Appliance keeping food below freezing
+FRIDGE|Short name for an appliance that keeps food cool
+SINK|Basin with a tap and drain
+FORK|Eating utensil with prongs
+SPOON|Eating utensil with a rounded bowl
+KNIFE|Cutting utensil with a blade
+PLATE|Flat dish used to serve food
+BOWL|Round deep dish
+SAUCER|Small dish placed beneath a cup
+MUGS|Drinking cups with handles
+JUGS|Containers with handles and spouts
+BOTTLE|Container with a narrow neck
+NAPKIN|Cloth or paper used to wipe the mouth at meals
+APRON|Protective garment worn over clothes while cooking
+TRAY|Flat portable surface used to carry dishes
+BASKET|Container often woven from strips of material
+DRAWER|Sliding storage compartment in furniture
+CUPBOARD|Furniture with doors for storage
+WARDROBE|Tall cupboard for hanging clothes
+SHELF|Flat horizontal surface for storing objects
+SOFA|Upholstered seat for several people
+STOOL|Seat without a back or arms
+BENCH|Long seat for several people
+MATTRESS|Padded surface placed on a bed frame
+DUVET|Soft filled covering used on a bed
+CEILING|Upper interior surface of a room
+FLOOR|Lower surface of a room on which people walk
+STAIRS|Series of steps connecting levels
+BALCONY|Platform projecting from an upper storey
+GARAGE|Building or room for keeping a car
+ATTIC|Space beneath the roof of a house
+CELLAR|Room below ground level
+CHIMNEY|Vertical passage carrying smoke from a fireplace
+FENCE|Barrier enclosing an area of land
+GATE|Hinged barrier in a fence
+PATH|Track intended for walking
+PAVEMENT|Raised pedestrian surface beside a road in Britain
+ROUNDABOUT|Circular road junction
+TRAFFIC|Vehicles moving along roads
+ENGINE|Machine that converts energy into mechanical motion
+WHEEL|Circular object that rotates around an axle
+TYRE|Rubber covering around a vehicle wheel in British spelling
+BRAKE|Device used to slow or stop a vehicle
+PEDAL|Lever operated by the foot
+SADDLE|Seat fitted on a horse or bicycle
+FERRY|Boat carrying passengers across a body of water
+CANOE|Narrow boat propelled by paddles
+KAYAK|Small boat usually propelled with a double-bladed paddle
+YACHT|Boat used for pleasure or racing
+SUBMARINE|Vessel designed to travel underwater
+TRAM|Rail vehicle running along city streets
+LORRY|British term for a large goods vehicle
+TAXI|Vehicle hired with a driver for a journey
+VANISH|Disappear from sight
+ARRIVE|Reach a destination
+DEPART|Leave a place to begin a journey
+JOURNEY|Act of travelling from one place to another
+HOLIDAY|Period of leisure away from work or school
+CAMPING|Staying outdoors in a tent
+TENT|Portable shelter made of fabric
+CARAVAN|Towable vehicle used as holiday accommodation
+RUCKSACK|Bag carried on the back
+LUGGAGE|Bags and cases carried when travelling
+MAPS|Drawings showing geographical areas
+ATLAS|Book containing maps
+GLOBE|Spherical model of Earth
+EQUATOR|Imaginary line halfway between Earth's poles
+LATITUDE|Angular distance north or south of the equator
+LONGITUDE|Angular distance east or west of the prime meridian
+CONTINENT|One of Earth's major land divisions
+COUNTRY|Nation with its own territory
+CAPITAL|City serving as a seat of government
+VILLAGE|Small rural settlement
+TOWN|Settlement generally larger than a village
+CITY|Large urban settlement
+SUBURB|Residential district on the outskirts of a city
+LIBERTY|State of being free
+JUSTICE|Fair treatment under the law
+COURT|Place where legal cases are heard
+JUDGE|Official who presides over a court
+JURY|Group of people deciding a verdict
+LAWYER|Professional who advises on legal matters
+POSTMAN|Man who delivers letters
+PLUMBER|Tradesperson who installs and repairs water pipes
+BUILDER|Person who constructs buildings
+TAILOR|Person who makes or alters fitted clothes
+BARBER|Person who cuts hair, especially men's hair
+BUTCHER|Person who prepares and sells meat
+BAKER|Person who makes bread for a living
+FLORIST|Person who sells and arranges flowers
+VETTING|Checking someone's suitability for a role
+DIVER|Person who swims beneath the surface of water
+SAILOR|Person who works aboard a ship
+CAPTAIN|Person in command of a ship
+COACH|Person who trains a sports team
+REFEREE|Official who enforces rules during a match
+UMPIRE|Official who makes decisions in cricket
+GOAL|Target a football team tries to score in
+RACKET|Strung implement used in tennis
+SHUTTLE|Object hit back and forth in badminton, shortened from shuttlecock
+NETBALL|Team sport in which players shoot a ball through a raised ring
+BASEBALL|Sport played with a bat and four bases
+BOWLING|Sport involving rolling a ball towards pins
+SKIING|Sport of travelling on snow using long runners
+SKATING|Moving over ice using blades attached to boots
+ARCHERY|Sport of shooting arrows at a target
+FENCING|Sport of fighting with specialised swords
+ROWING|Sport of propelling a boat with oars
+SURFING|Sport of riding waves on a board
+DIVING|Sport of jumping into water from a platform
+MARATHON|Running race of 26 miles and 385 yards
+SPRINT|Short race run at maximum speed
+HURDLE|Barrier jumped over in a race
+JAVELIN|Spear thrown in an athletics event
+DISCUS|Heavy circular object thrown in athletics
+PODIUM|Raised platform on which medal winners stand
+STADIUM|Large venue with seating for sporting events
+ARENA|Enclosed venue for sports or performances
+ORCHESTRA|Large group of instrumental musicians
+CHOIR|Group of singers
+OPERA|Dramatic work in which much of the dialogue is sung
+BALLET|Classical dance form often performed on pointe
+CELLO|Large bowed string instrument held between the knees
+HARP|String instrument with strings stretched across a frame
+BANJO|String instrument with a round drum-like body
+CLARINET|Woodwind instrument with a single reed
+OBOE|Woodwind instrument with a double reed and a high register
+TROMBONE|Brass instrument commonly played using a slide
+TUBA|Large low-pitched brass instrument
+CYMBAL|Round metal percussion instrument
+TRIANGLE|Three-sided polygon also used as a percussion instrument
+RHYTHM|Pattern of beats in music
+MELODY|Sequence of musical notes forming a tune
+CHORUS|Repeated section of a song
+VERSE|Section of a song distinct from its chorus
+TEMPO|Speed at which music is performed
+VOLUME|Degree of loudness of a sound
+SILENCE|Absence of sound
+ECHO|Sound heard again after reflection
+WHISTLE|High sound made by blowing through pursed lips
+STATUE|Three-dimensional representation of a person or animal
+PORTRAIT|Picture of a person's face or figure
+CANVAS|Fabric surface used for painting
+SKETCH|Quick rough drawing
+MOSAIC|Picture made from small pieces of coloured material
+POTTERY|Objects made from fired clay
+SCULPTURE|Three-dimensional work of art
+GALLERY|Room or building displaying works of art
+NOVEL|Long fictional prose narrative
+POETRY|Literary writing often arranged in verse
+FABLE|Short story usually conveying a moral
+MYTH|Traditional story often involving gods or heroes
+LEGEND|Traditional story passed down through generations
+CHAPTER|Main numbered division of a book
+TITLE|Name of a book or film
+INDEX|Alphabetical list of topics and page numbers
+GLOSSARY|List of specialised terms and their meanings
+DICTIONARY|Reference book explaining word meanings
+COMIC|Publication telling stories through illustrated panels
+CARTOON|Humorous drawing or animated programme
+PUPPET|Figure moved by strings or by hand
+COSTUME|Clothing worn to portray a character
+STAGE|Raised platform for performers
+SCRIPT|Written text of a play or film
+AUDIENCE|People watching a performance
+APPLAUSE|Clapping to show approval
+REHEARSAL|Practice session before a performance
+MAGIC|Art of performing seemingly impossible tricks
+WIZARD|Male practitioner of magic in fantasy stories
+WITCH|Woman traditionally associated with magic spells
+FAIRY|Small magical being often depicted with wings
+UNICORN|Mythical horse with a single horn
+MERMAID|Mythical being with a woman's upper body and a fish tail
+PHOENIX|Mythical bird reborn from its ashes
+GRIFFIN|Mythical creature with an eagle's head and a lion's body
+GOBLIN|Small mischievous creature in folklore
+TROLL|Creature in folklore often said to live under bridges
+OGRE|Large frightening giant in fairy tales
+DWARF|Small humanoid being in traditional fantasy stories
+ELVES|Plural of elf
+SWORD|Long bladed weapon used in historical combat
+SHIELD|Protective object held to block blows
+ARMOUR|Protective clothing worn in battle in British spelling
+FORTRESS|Strongly defended military building
+MOAT|Deep ditch surrounding a castle
+TOWER|Tall narrow structure
+THRONE|Ceremonial seat of a monarch
+PRINCE|Male royal title often held by a monarch's son
+PRINCESS|Female royal title often held by a monarch's daughter
+EMPEROR|Male ruler of an empire
+EMPRESS|Female ruler of an empire
+KINGDOM|Territory ruled by a king or queen
+VIKING|Scandinavian seafarer of the early medieval period
+KNAPSACK|Another name for a backpack
